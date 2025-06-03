@@ -4,7 +4,7 @@ Hi 👋 My name is Lindsey 'Ezra' Rampton
 Frontend Developer
 ------------------
 
-I am a frontend developer that loves to learn.
+I am a developer that loves to learn.
 
 *   🌍  I'm based in Michigan
 *   ✉️  You can contact me at [ezrambrook@gmail.com](mailto:ezrambrook@gmail.com)
